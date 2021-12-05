@@ -12,7 +12,7 @@ fun getCoordinatesFromStartToEnd(line: Line): List<Coordinate> {
     val result = listOf(
         xRange.map { Coordinate(it, line.from.y) },
         yRange.map { Coordinate(line.from.x, it) }
-    ).flatten().distinct()
+    ).flatten().distinct().sortedBy { it.x }.sortedBy { it.y }
 
     return result
 }

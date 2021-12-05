@@ -141,7 +141,7 @@ internal class D5part1KtTest1 {
 
     @Test
     fun getCoordinatesFromStartToEndTest2() {
-        val expected = listOf(Coordinate(2, 0), Coordinate(0, 0), Coordinate(1, 0))
+        val expected = listOf(Coordinate(0, 0), Coordinate(1, 0), Coordinate(2, 0))
         val input = Line(Coordinate(2, 0), Coordinate(0, 0))
 
         val actual = getCoordinatesFromStartToEnd(input)
