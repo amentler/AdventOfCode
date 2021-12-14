@@ -7,6 +7,38 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/kotlin" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d6/kotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d6/kotlin/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d6/test/main" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d6/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d7/kotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d7/kotlin/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d7/test/main" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d7/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d8/kotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d8/kotlin/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d8/test/main" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d8/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d9/kotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d9/kotlin/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d9/test/main" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d9/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d10/kotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d10/kotlin/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d10/test/main" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d10/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d11/kotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d11/kotlin/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d11/test/main" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d11/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d12/kotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d12/kotlin/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d12/test/main" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d12/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d13/kotlin/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d13/kotlin/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d13/test/main" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/d13/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
